@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p115258-e1441101.adobeaemcloud.com/bin/franklin.delivery/varun9715/xwalk-demo/main"
+    type: "markup"
+    suffix: ".html"

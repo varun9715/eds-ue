@@ -1,0 +1,7 @@
+{
+  "mappings": [
+    "/content/vasha-xwalkdemo/:/",
+    "/content/vasha-xwalkdemo/configuration:/.helix/config.json",
+    "/content/vasha-xwalkdemo/article-index.json:/article-index.json"
+  ]
+}
