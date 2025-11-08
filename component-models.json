@@ -187,6 +187,18 @@
     ]
   },
   {
+    "id": "dropdownField",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "dropdownField",
+        "label": "dropdownField",
+        "multi": false
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {
