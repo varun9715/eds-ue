@@ -199,6 +199,25 @@
     ]
   },
   {
+    "id": "custom-block",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "myDropdown",
+        "label": "Field One",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "fieldTwo",
+        "label": "Field Two",
+        "multi": false
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {

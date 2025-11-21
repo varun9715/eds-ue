@@ -30,7 +30,8 @@
       "columns",
       "fragment",
       "teaser",
-      "dropdownField"
+      "dropdownField",
+      "custom-block"
     ]
   },
   {

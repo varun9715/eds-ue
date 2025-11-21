@@ -1,0 +1,20 @@
+.custom-block-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .custom-block-field {
+    font-size: 0.95rem;
+  }
+  
+  .custom-block-myDropdown {
+    font-weight: 600;
+  }
+  
+  .custom-block-field-two {
+    color: #555;
+  }
