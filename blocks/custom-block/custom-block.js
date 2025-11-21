@@ -44,7 +44,7 @@ export default async function decorate(block) {
   let dropdownValue = "";
 
   try {
-    const pageUrl = window.location.href;
+    const pageUrl = 'https://localhost:9080/#/custom-dropdown-field';
     dropdownValue = (await fetchDropdownValue(pageUrl, "custom-block", "myDropdown")) || "";
   } catch (e) {
     console.error("Error calling dropdown value API:", e);
